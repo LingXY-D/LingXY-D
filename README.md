@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LingXY-D
-- 👀 I’m interested in sleeping
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning CS in WHU
 - 📫 Start with Github!
 
