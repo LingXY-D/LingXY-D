@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LingXY-D
+- 👋 Hi, I’m @LingXY
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning CS in WHU
 - 📫 Start with Github!
